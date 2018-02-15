@@ -56,7 +56,7 @@ import java.io.OutputStream;
  * A RtfByteArrayBuffer works much like {@link ByteArrayOutputStream} but is cheaper and faster in most cases
  * (exception: large writes when reusing buffers).
  * 
- * @version $Id: RtfByteArrayBuffer.java 3433 2008-05-24 19:32:11Z xlv $
+ * @version $Id$
  * @author Thomas Bickel (tmb99@inode.at)
  */
 public final class RtfByteArrayBuffer extends OutputStream

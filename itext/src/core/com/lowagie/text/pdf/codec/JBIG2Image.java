@@ -1,5 +1,5 @@
 /*
- * $Id: JBIG2Image.java 3715 2009-02-23 15:02:23Z blowagie $
+ * $Id$
  *
  * Copyright 2009 by Nigel Kerr.
  *

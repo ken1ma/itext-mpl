@@ -1,5 +1,5 @@
 /*
- * $Id: Chunk.java 3427 2008-05-24 18:32:31Z xlv $
+ * $Id$
  *
  * Copyright 1999, 2000, 2001, 2002 by Bruno Lowagie.
  *

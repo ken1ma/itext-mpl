@@ -1,5 +1,5 @@
 /*
- * $Id: PdfArray.java 3761 2009-03-06 16:33:57Z blowagie $
+ * $Id$
  *
  * Copyright 1999, 2000, 2001, 2002 Bruno Lowagie
  *

@@ -1,5 +1,5 @@
 /*
- * $Id: RtfTabGroup.java 3373 2008-05-12 16:21:24Z xlv $
+ * $Id$
  *
  * Copyright 2001, 2002, 2003, 2004 by Mark Hall
  *
@@ -70,7 +70,7 @@ import com.lowagie.text.rtf.RtfAddableElement;
  * para.add(tabs);<br />
  * para.add("\tLeft aligned\tCentre aligned\t12,45\tRight aligned");</code>
  * 
- * @version $Id: RtfTabGroup.java 3373 2008-05-12 16:21:24Z xlv $
+ * @version $Id$
  * @author Mark Hall (Mark.Hall@mail.room3b.eu)
  * @author Thomas Bickel (tmb99@inode.at)
  */

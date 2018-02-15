@@ -1,5 +1,5 @@
 /*
- * $Id: PdfLister.java 3735 2009-02-26 01:44:03Z xlv $
+ * $Id$
  *
  * Copyright 2002 Mark Thompson
  *

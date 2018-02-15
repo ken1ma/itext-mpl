@@ -1,5 +1,5 @@
 /*
- * $Id: PdfReader.java 3948 2009-06-03 15:17:22Z blowagie $
+ * $Id$
  *
  * Copyright 2001, 2002 Paulo Soares
  *

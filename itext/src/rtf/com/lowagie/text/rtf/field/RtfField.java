@@ -1,5 +1,5 @@
 /*
- * $Id: RtfField.java 3580 2008-08-06 15:52:00Z howard_s $
+ * $Id$
  *
  * Copyright 2004 by Mark Hall
  * Uses code Copyright 2002
@@ -69,7 +69,7 @@ import com.lowagie.text.rtf.style.RtfFont;
  * and writeFieldResultContent. All other field functionality is handled by the
  * RtfField class.
  * 
- * @version $Id: RtfField.java 3580 2008-08-06 15:52:00Z howard_s $
+ * @version $Id$
  * @author Mark Hall (Mark.Hall@mail.room3b.eu)
  * @author Dirk Weigenand (Dirk.Weigenand@smb-tec.com)
  * @author Thomas Bickel (tmb99@inode.at)

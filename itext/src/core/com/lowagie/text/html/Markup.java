@@ -1,5 +1,5 @@
 /*
- * $Id: Markup.java 3654 2009-01-21 16:11:00Z blowagie $
+ * $Id$
  *
  * Copyright 2001, 2002 by Bruno Lowagie.
  *

@@ -1,5 +1,5 @@
 /*
- * $Id: BackgroundTask.java 3146 2008-02-20 18:10:07Z blowagie $
+ * $Id$
  *
  * Copyright 2007 Bruno Lowagie.
  *

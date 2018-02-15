@@ -1,5 +1,5 @@
 /*
- * $Id: PdfDate.java 3117 2008-01-31 05:53:22Z xlv $
+ * $Id$
  *
  * Copyright 1999, 2000, 2001, 2002 Bruno Lowagie
  *

@@ -1,5 +1,5 @@
 /*
- * $Id: IconButton.java 3117 2008-01-31 05:53:22Z xlv $
+ * $Id$
  *
  * Copyright 2007 Bruno Lowagie.
  *

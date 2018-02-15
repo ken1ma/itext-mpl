@@ -1,5 +1,5 @@
 /*
- * $Id: PdfPCell.java 3992 2009-06-19 12:05:06Z blowagie $
+ * $Id$
  *
  * Copyright 2001, 2002 Paulo Soares
  *

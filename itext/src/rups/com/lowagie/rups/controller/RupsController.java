@@ -1,5 +1,5 @@
 /*
- * $Id: RupsController.java 3244 2008-04-13 23:27:35Z xlv $
+ * $Id$
  *
  * Copyright 2007 Bruno Lowagie.
  *

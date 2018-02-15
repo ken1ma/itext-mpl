@@ -1,5 +1,5 @@
 /*
- * $Id: RtfDestinationDocument.java 3456 2008-05-26 15:26:57Z howard_s $
+ * $Id$
  *
  * Copyright 2007 by Howard Shank (hgshank@yahoo.com)
  *

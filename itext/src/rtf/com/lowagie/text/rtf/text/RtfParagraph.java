@@ -1,5 +1,5 @@
 /*
- * $Id: RtfParagraph.java 3670 2009-02-01 09:13:48Z blowagie $
+ * $Id$
  *
  * Copyright 2001, 2002, 2003, 2004 by Mark Hall
  *
@@ -69,7 +69,7 @@ import com.lowagie.text.rtf.style.RtfParagraphStyle;
  * The RtfParagraph is an extension of the RtfPhrase that adds alignment and
  * indentation properties. It wraps a Paragraph.
  * 
- * @version $Id: RtfParagraph.java 3670 2009-02-01 09:13:48Z blowagie $
+ * @version $Id$
  * @author Mark Hall (Mark.Hall@mail.room3b.eu)
  * @author Thomas Bickel (tmb99@inode.at)
  */

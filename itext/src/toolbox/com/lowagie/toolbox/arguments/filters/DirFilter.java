@@ -1,5 +1,5 @@
 /*
- * $Id: DirFilter.java 3271 2008-04-18 20:39:42Z xlv $
+ * $Id$
  * Copyright (c) 2005-2007 by Johannes Schindelin
  *
  * Permission is hereby granted, free of charge, to any person

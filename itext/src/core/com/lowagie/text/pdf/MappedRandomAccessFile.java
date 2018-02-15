@@ -1,5 +1,5 @@
 /*
- * $Id: MappedRandomAccessFile.java 3314 2008-05-01 23:48:39Z xlv $
+ * $Id$
  *
  * Copyright 2006 Joakim Sandstroem
  *

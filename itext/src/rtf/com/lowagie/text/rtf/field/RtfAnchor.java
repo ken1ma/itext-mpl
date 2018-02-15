@@ -1,5 +1,5 @@
 /*
- * $Id: RtfAnchor.java 3580 2008-08-06 15:52:00Z howard_s $
+ * $Id$
  *
  * Copyright 2004 by Mark Hall
  *
@@ -61,7 +61,7 @@ import com.lowagie.text.rtf.text.RtfPhrase;
 /**
  * The RtfAnchor is the RTF representation of an Anchor object.
  * 
- * @version $Id: RtfAnchor.java 3580 2008-08-06 15:52:00Z howard_s $
+ * @version $Id$
  * @author Mark Hall (Mark.Hall@mail.room3b.eu)
  * @author Werner Daehn (Werner.Daehn@BusinessObjects.com)
  * @author Thomas Bickel (tmb99@inode.at)

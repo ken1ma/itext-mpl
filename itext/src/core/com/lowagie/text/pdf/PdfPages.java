@@ -1,5 +1,5 @@
 /*
- * $Id: PdfPages.java 3934 2009-05-27 11:23:23Z blowagie $
+ * $Id$
  *
  * Copyright 1999, 2000, 2001, 2002 Bruno Lowagie
  *

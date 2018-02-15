@@ -1,5 +1,5 @@
 /*
- * $Id: PdfSignatureAppearance.java 3905 2009-04-24 10:40:24Z blowagie $
+ * $Id$
  *
  * Copyright 2004-2006 by Paulo Soares.
  *

@@ -1,5 +1,5 @@
 /*
- * $Id: Paragraph.java 3668 2009-02-01 09:08:50Z blowagie $
+ * $Id$
  *
  * Copyright 1999, 2000, 2001, 2002 by Bruno Lowagie.
  *

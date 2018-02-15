@@ -1,5 +1,5 @@
 /*
- * $Id: PdfLine.java 3994 2009-06-24 13:08:04Z blowagie $
+ * $Id$
  *
  * Copyright 1999, 2000, 2001, 2002 Bruno Lowagie
  *

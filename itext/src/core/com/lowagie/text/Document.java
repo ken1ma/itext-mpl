@@ -1,5 +1,5 @@
 /*
- * $Id: Document.java 4007 2009-07-07 09:43:40Z blowagie $
+ * $Id$
  *
  * Copyright 1999, 2000, 2001, 2002 by Bruno Lowagie.
  *

@@ -1,5 +1,5 @@
 /*
- * $Id: PdfStructureElement.java 3914 2009-04-26 09:16:47Z blowagie $
+ * $Id$
  *
  * Copyright 2005 by Paulo Soares.
  *

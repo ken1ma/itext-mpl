@@ -1,5 +1,5 @@
 /*
- * $Id: RtfRow.java 3735 2009-02-26 01:44:03Z xlv $
+ * $Id$
  *
  * Copyright 2001, 2002, 2003, 2004, 2005 by Mark Hall
  *
@@ -67,7 +67,7 @@ import com.lowagie.text.rtf.document.RtfDocument;
  * The RtfRow wraps one Row for a RtfTable.
  * INTERNAL USE ONLY
  * 
- * @version $Id: RtfRow.java 3735 2009-02-26 01:44:03Z xlv $
+ * @version $Id$
  * @author Mark Hall (Mark.Hall@mail.room3b.eu)
  * @author Steffen Stundzig
  * @author Lorenz Maierhofer

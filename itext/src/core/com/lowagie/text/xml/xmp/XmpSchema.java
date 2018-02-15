@@ -1,5 +1,5 @@
 /*
- * $Id: XmpSchema.java 3543 2008-07-10 17:37:37Z xlv $
+ * $Id$
  *
  * Copyright 2005 by Bruno Lowagie.
  *

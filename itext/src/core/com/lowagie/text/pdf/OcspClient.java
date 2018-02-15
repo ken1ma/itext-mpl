@@ -1,5 +1,5 @@
 /*
- * $Id: OcspClient.java 3959 2009-06-09 08:31:05Z blowagie $
+ * $Id$
  *
  * Copyright 2009 Paulo Soares
  *

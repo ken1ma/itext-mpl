@@ -1,5 +1,5 @@
 /*
- * $Id: PdfString.java 3759 2009-03-06 16:05:00Z blowagie $
+ * $Id$
  *
  * Copyright 1999, 2000, 2001, 2002 Bruno Lowagie
  *

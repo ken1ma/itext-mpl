@@ -1,5 +1,5 @@
 /*
- * $Id: RtfParser.java 3580 2008-08-06 15:52:00Z howard_s $
+ * $Id$
  *
  * Copyright 2007 by Howard Shank (hgshank@yahoo.com)
  *

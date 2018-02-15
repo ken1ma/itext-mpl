@@ -1,5 +1,5 @@
 /*
- * $Id: RtfFontList.java 3580 2008-08-06 15:52:00Z howard_s $
+ * $Id$
  *
  * Copyright 2001, 2002, 2003, 2004 by Mark Hall
  *
@@ -62,7 +62,7 @@ import com.lowagie.text.rtf.document.RtfDocument;
  * The RtfFontList stores the list of fonts used in the rtf document. It also
  * has methods for writing this list to the document
  *
- * Version: $Id: RtfFontList.java 3580 2008-08-06 15:52:00Z howard_s $
+ * Version: $Id$
  * @author Mark Hall (Mark.Hall@mail.room3b.eu)
  * @author Thomas Bickel (tmb99@inode.at)
  */

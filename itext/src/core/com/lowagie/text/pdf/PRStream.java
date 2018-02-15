@@ -1,5 +1,5 @@
 /*
- * $Id: PRStream.java 3633 2008-12-23 18:42:06Z xlv $
+ * $Id$
  *
  * Copyright 2001, 2002 by Paulo Soares.
  *

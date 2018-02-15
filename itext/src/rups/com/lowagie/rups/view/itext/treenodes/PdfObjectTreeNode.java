@@ -1,5 +1,5 @@
 /*
- * $Id: PdfObjectTreeNode.java 3693 2009-02-13 17:37:31Z xlv $
+ * $Id$
  *
  * Copyright 2007 Bruno Lowagie.
  *

@@ -1,5 +1,5 @@
 /*
- * $Id: PdfImage.java 3715 2009-02-23 15:02:23Z blowagie $
+ * $Id$
  *
  * Copyright 1999, 2000, 2001, 2002 Bruno Lowagie
  *

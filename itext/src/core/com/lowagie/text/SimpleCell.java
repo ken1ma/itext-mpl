@@ -1,5 +1,5 @@
 /*
- * $Id: SimpleCell.java 3752 2009-03-04 18:02:40Z blowagie $
+ * $Id$
  *
  * Copyright 2005 by Bruno Lowagie.
  *

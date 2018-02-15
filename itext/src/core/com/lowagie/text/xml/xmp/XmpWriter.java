@@ -1,5 +1,5 @@
 /*
- * $Id: XmpWriter.java 3949 2009-06-03 15:19:04Z blowagie $
+ * $Id$
  *
  * Copyright 2005 by Bruno Lowagie.
  *

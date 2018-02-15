@@ -1,5 +1,5 @@
 /*
- * $Id: PdfEncryption.java 3707 2009-02-20 18:47:51Z xlv $
+ * $Id$
  *
  * Copyright 2001-2006 Paulo Soares
  *

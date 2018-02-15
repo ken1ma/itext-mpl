@@ -1,5 +1,5 @@
 /*
- * $Id: PdfWriter.java 3948 2009-06-03 15:17:22Z blowagie $
+ * $Id$
  *
  * Copyright 1999, 2000, 2001, 2002 Bruno Lowagie
  *

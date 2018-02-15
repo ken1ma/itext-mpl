@@ -1,5 +1,5 @@
 /*
- * $Id: RtfTable.java 3533 2008-07-07 21:27:13Z Howard_s $
+ * $Id$
  *
  * Copyright 2001, 2002, 2003, 2004 by Mark Hall
  *
@@ -69,7 +69,7 @@ import com.lowagie.text.rtf.text.RtfParagraph;
  * The RtfTable wraps a Table.
  * INTERNAL USE ONLY
  * 
- * @version $Id: RtfTable.java 3533 2008-07-07 21:27:13Z Howard_s $
+ * @version $Id$
  * @author Mark Hall (Mark.Hall@mail.room3b.eu)
  * @author Steffen Stundzig
  * @author Benoit Wiart

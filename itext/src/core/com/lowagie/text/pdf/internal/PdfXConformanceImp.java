@@ -1,5 +1,5 @@
 /*
- * $Id: PdfXConformanceImp.java 3829 2009-04-01 15:50:47Z blowagie $
+ * $Id$
  *
  * Copyright 2006 Bruno Lowagie (based on code by Paulo Soares)
  *

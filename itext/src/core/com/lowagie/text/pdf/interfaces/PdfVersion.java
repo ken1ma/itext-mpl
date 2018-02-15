@@ -1,5 +1,5 @@
 /*
- * $Id: PdfVersion.java 3811 2009-03-23 18:15:13Z blowagie $
+ * $Id$
  *
  * Copyright 2006 Bruno Lowagie
  *

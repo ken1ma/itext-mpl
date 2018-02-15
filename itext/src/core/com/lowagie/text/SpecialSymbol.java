@@ -1,5 +1,5 @@
 /*
- * $Id: SpecialSymbol.java 3963 2009-06-11 11:45:49Z psoares33 $
+ * $Id$
  *
  * Copyright 2000, 2001, 2002 by Bruno Lowagie.
  *

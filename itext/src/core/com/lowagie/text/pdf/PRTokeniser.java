@@ -1,5 +1,5 @@
 /*
- * $Id: PRTokeniser.java 3947 2009-06-02 17:51:05Z trumpetinc $
+ * $Id$
  *
  * Copyright 2001, 2002 by Paulo Soares.
  *

@@ -1,5 +1,5 @@
 /*
- * $Id: RtfTotalPageNumber.java 3580 2008-08-06 15:52:00Z howard_s $
+ * $Id$
  *
  * Copyright 2005 Jose Hurtado <a href="mailto:jose.hurtado@gft.com">jose.hurtado@gft.com</a>
  * Parts Copyright 2005 Mark Hall
@@ -60,7 +60,7 @@ import com.lowagie.text.rtf.document.RtfDocument;
 /**
  * The RtfTotalPageNumber provides the total number of pages field in rtf documents.
  * 
- * @version $Id: RtfTotalPageNumber.java 3580 2008-08-06 15:52:00Z howard_s $
+ * @version $Id$
  * @author Jose Hurtado (jose.hurtado@gft.com)
  * @author Mark Hall (Mark.Hall@mail.room3b.eu)
  * @author Thomas Bickel (tmb99@inode.at)

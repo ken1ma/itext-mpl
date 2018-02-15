@@ -1,5 +1,5 @@
 /*
- * $Id: CFFFontSubset.java 3573 2008-07-21 15:08:04Z blowagie $
+ * $Id$
  *
  * Copyright 2004 Oren Manor and Ygal Blum
  *

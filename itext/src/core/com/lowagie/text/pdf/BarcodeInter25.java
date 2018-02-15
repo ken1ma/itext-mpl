@@ -1,5 +1,5 @@
 /*
- * $Id: BarcodeInter25.java 3117 2008-01-31 05:53:22Z xlv $
+ * $Id$
  *
  * Copyright 2002-2006 by Paulo Soares.
  *

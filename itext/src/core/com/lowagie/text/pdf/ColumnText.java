@@ -1,5 +1,5 @@
 /*
- * $Id: ColumnText.java 3904 2009-04-24 10:09:01Z blowagie $
+ * $Id$
  *
  * Copyright 2001, 2002 by Paulo Soares.
  *

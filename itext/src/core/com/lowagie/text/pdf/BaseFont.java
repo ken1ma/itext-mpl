@@ -1,5 +1,5 @@
 /*
- * $Id: BaseFont.java 3869 2009-04-17 18:03:45Z blowagie $
+ * $Id$
  *
  * Copyright 2000-2006 by Paulo Soares.
  *

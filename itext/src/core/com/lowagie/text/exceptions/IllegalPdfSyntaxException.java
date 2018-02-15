@@ -1,5 +1,5 @@
 /*
- * $Id: IllegalPdfSyntaxException.java 3820 2009-03-25 10:30:01Z blowagie $
+ * $Id$
  *
  * Copyright 2009 by Bruno Lowagie.
  *

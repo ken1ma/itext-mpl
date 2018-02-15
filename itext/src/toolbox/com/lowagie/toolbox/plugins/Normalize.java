@@ -1,5 +1,5 @@
 /*
- * $Id: Normalize.java 3736 2009-02-26 08:52:21Z xlv $
+ * $Id$
  *
  * Copyright 2005 by Carsten Hammer.
  *
@@ -44,7 +44,7 @@ public class Normalize
     extends AbstractTool {
 
   static {
-    addVersion("$Id: Normalize.java 3736 2009-02-26 08:52:21Z xlv $");
+    addVersion("$Id$");
   }
 
   FileArgument destfile = null;

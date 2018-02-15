@@ -1,5 +1,5 @@
 /*
- * $Id: RtfListItem.java 3969 2009-06-16 08:03:23Z blowagie $
+ * $Id$
  *
  * Copyright 2008 by Howard Shank (hgshank@yahoo.com)
  *
@@ -64,7 +64,7 @@ import com.lowagie.text.rtf.text.RtfParagraph;
 /**
  * The RtfListItem acts as a wrapper for a ListItem.
  * 
- * @version $Id: RtfListItem.java 3969 2009-06-16 08:03:23Z blowagie $
+ * @version $Id$
  * @author Mark Hall (Mark.Hall@mail.room3b.eu)
  * @author Howard Shank (hgshank@yahoo.com)
  * @since 2.1.3

@@ -1,5 +1,5 @@
 /*
- * $Id: RtfHeaderFooterGroup.java 3373 2008-05-12 16:21:24Z xlv $
+ * $Id$
  *
  * Copyright 2001, 2002, 2003, 2004 by Mark Hall
  *
@@ -62,7 +62,7 @@ import com.lowagie.text.rtf.document.RtfDocument;
  * The RtfHeaderFooterGroup holds 0 - 3 RtfHeaderFooters that create a group
  * of headers or footers.
  * 
- * @version $Id: RtfHeaderFooterGroup.java 3373 2008-05-12 16:21:24Z xlv $
+ * @version $Id$
  * @author Mark Hall (Mark.Hall@mail.room3b.eu)
  * @author Thomas Bickel (tmb99@inode.at)
  */

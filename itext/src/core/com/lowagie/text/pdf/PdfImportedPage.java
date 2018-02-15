@@ -1,5 +1,5 @@
 /*
- * $Id: PdfImportedPage.java 3929 2009-05-22 13:26:41Z blowagie $
+ * $Id$
  *
  * Copyright 2001, 2002 Paulo Soares
  *

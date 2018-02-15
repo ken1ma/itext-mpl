@@ -1,5 +1,5 @@
 /*
- * $Id: RtfExtendedElement.java 3373 2008-05-12 16:21:24Z xlv $
+ * $Id$
  *
  * Copyright 2001, 2002, 2003, 2004 by Mark Hall
  *
@@ -56,7 +56,7 @@ import java.io.OutputStream;
  * The RtfExtendedElement interface is to be used for elements that also
  * write data into the definition part of the rtf document
  * 
- * @version $Id: RtfExtendedElement.java 3373 2008-05-12 16:21:24Z xlv $
+ * @version $Id$
  * @author Mark Hall (Mark.Hall@mail.room3b.eu)
  * @author Thomas Bickel (tmb99@inode.at)
  */

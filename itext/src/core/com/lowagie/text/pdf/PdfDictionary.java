@@ -1,5 +1,5 @@
 /*
- * $Id: PdfDictionary.java 3762 2009-03-06 16:53:44Z blowagie $
+ * $Id$
  *
  * Copyright 1999, 2000, 2001, 2002 Bruno Lowagie
  *

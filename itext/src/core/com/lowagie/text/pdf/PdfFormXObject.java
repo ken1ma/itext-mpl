@@ -1,5 +1,5 @@
 /*
- * $Id: PdfFormXObject.java 3903 2009-04-24 10:03:48Z blowagie $
+ * $Id$
  *
  * Copyright 2001, 2002 Bruno Lowagie
  *

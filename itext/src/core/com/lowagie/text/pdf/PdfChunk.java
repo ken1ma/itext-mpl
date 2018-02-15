@@ -1,5 +1,5 @@
 /*
- * $Id: PdfChunk.java 3407 2008-05-21 16:56:55Z blowagie $
+ * $Id$
  *
  * Copyright 1999, 2000, 2001, 2002 Bruno Lowagie
  *

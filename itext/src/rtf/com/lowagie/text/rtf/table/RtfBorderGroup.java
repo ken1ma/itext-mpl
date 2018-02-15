@@ -1,5 +1,5 @@
 /*
- * $Id: RtfBorderGroup.java 3427 2008-05-24 18:32:31Z xlv $
+ * $Id$
  *
  * Copyright 2001, 2002, 2003, 2004 by Mark Hall
  *
@@ -65,7 +65,7 @@ import com.lowagie.text.rtf.document.RtfDocument;
  * The RtfBorderGroup represents a collection of RtfBorders to use in a RtfCell
  * or RtfTable.
  * 
- * @version $Id: RtfBorderGroup.java 3427 2008-05-24 18:32:31Z xlv $
+ * @version $Id$
  * @author Mark Hall (Mark.Hall@mail.room3b.eu)
  * @author Thomas Bickel (tmb99@inode.at)
  */

@@ -1,5 +1,5 @@
 /*
- * $Id: PdfPRow.java 3999 2009-06-30 11:52:55Z blowagie $
+ * $Id$
  *
  * Copyright 2001, 2002 Paulo Soares
  *

@@ -1,5 +1,5 @@
 /*
- * $Id: JBIG2SegmentReader.java 3714 2009-02-20 21:04:16Z xlv $
+ * $Id$
  *
  * Copyright 2009 by Nigel Kerr.
  *

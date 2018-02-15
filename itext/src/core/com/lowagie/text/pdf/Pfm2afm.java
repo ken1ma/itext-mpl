@@ -1,5 +1,5 @@
 /*
- * $Id: Pfm2afm.java 3514 2008-06-27 09:26:36Z blowagie $
+ * $Id$
  *
  * Copyright 1991 Ken Borgendale
  *

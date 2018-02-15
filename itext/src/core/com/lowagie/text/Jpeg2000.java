@@ -1,5 +1,5 @@
 /*
- * $Id: Jpeg2000.java 3583 2008-08-12 00:00:09Z xlv $
+ * $Id$
  *
  * Copyright 2007 by Paulo Soares.
  *

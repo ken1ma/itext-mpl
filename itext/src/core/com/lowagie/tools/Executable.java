@@ -1,5 +1,5 @@
 /*
- * $Id: Executable.java 3373 2008-05-12 16:21:24Z xlv $
+ * $Id$
  *
  * Copyright 2005 by Bruno Lowagie / Roger Mistelli
  *

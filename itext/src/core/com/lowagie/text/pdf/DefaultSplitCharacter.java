@@ -1,5 +1,5 @@
 /*
- * $Id: DefaultSplitCharacter.java 3427 2008-05-24 18:32:31Z xlv $
+ * $Id$
  *
  * Copyright 2008 Bruno Lowagie and Xavier Le Vourch
  *
