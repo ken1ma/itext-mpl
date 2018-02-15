@@ -30,7 +30,7 @@ import com.lowagie.text.rtf.RtfAddableElement;
  *   <li>Point[]</li>
  * </ul>
  * 
- * @version $Id$
+ * @version $Id: RtfShapeProperty.java 3580 2008-08-06 15:52:00Z howard_s $
  * @author Mark Hall (Mark.Hall@mail.room3b.eu)
  * @author Thomas Bickel (tmb99@inode.at)
  */

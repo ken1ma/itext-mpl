@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-/* $Id$ */
+/* $Id: HyphenationTree.java 3117 2008-01-31 05:53:22Z xlv $ */
  
 package com.lowagie.text.pdf.hyphenation;
 

@@ -1,5 +1,5 @@
 /*
- * $Id$
+ * $Id: RandomAccessFileOrArray.java 3488 2008-06-02 14:19:26Z blowagie $
  *
  * Copyright 2001, 2002 Paulo Soares
  *

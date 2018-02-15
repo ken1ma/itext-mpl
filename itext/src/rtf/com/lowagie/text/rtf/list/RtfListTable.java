@@ -1,5 +1,5 @@
 /*
- * $Id$
+ * $Id: RtfListTable.java 3580 2008-08-06 15:52:00Z howard_s $
  *
  * Copyright 2008 Howard Shank (hgshank@yahoo.com)
  *
@@ -62,7 +62,7 @@ import com.lowagie.text.rtf.document.RtfDocument;
 /**
  * The RtfListTable manages all RtfList objects and list override table in one RtfDocument.
  * 
- * @version $Id$
+ * @version $Id: RtfListTable.java 3580 2008-08-06 15:52:00Z howard_s $
  * @author Mark Hall (Mark.Hall@mail.room3b.eu)
  * @author Howard Shank (hgshank@yahoo.com)
  */

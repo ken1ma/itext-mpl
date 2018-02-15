@@ -1,5 +1,5 @@
 /*
- * $Id$
+ * $Id: PdfBorderArray.java 3373 2008-05-12 16:21:24Z xlv $
  *
  * Copyright 1999, 2000, 2001, 2002 Bruno Lowagie
  *

@@ -1,5 +1,5 @@
 /*
- * $Id$
+ * $Id: RtfImportMappings.java 3440 2008-05-25 18:16:48Z howard_s $
  *
  * Copyright 2006 by Mark Hall
  *

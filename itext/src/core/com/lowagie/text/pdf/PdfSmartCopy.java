@@ -1,5 +1,5 @@
 /*
- * $Id$
+ * $Id: PdfSmartCopy.java 3991 2009-06-18 21:21:09Z psoares33 $
  *
  * Copyright 2007 Michael Neuweiler and Bruno Lowagie
  *

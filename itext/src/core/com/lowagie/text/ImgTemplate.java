@@ -1,5 +1,5 @@
 /*
- * $Id$
+ * $Id: ImgTemplate.java 3517 2008-06-29 10:37:16Z blowagie $
  *
  * Copyright 2000, 2001, 2002 by Paulo Soares.
  *

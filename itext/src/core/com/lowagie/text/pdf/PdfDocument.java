@@ -1,5 +1,5 @@
 /*
- * $Id$
+ * $Id: PdfDocument.java 3939 2009-05-27 13:09:45Z blowagie $
  *
  * Copyright 1999, 2000, 2001, 2002 by Bruno Lowagie.
  *

@@ -1,5 +1,5 @@
 /*
- * $Id$
+ * $Id: RtfImportMgr.java 3456 2008-05-26 15:26:57Z howard_s $
  *
  * Copyright 2007 by Howard Shank (hgshank@yahoo.com)
  *

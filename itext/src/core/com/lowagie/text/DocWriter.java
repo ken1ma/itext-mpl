@@ -1,5 +1,5 @@
 /*
- * $Id$
+ * $Id: DocWriter.java 3937 2009-05-27 12:56:48Z blowagie $
  *
  * Copyright 1999, 2000, 2001, 2002 by Bruno Lowagie.
  *

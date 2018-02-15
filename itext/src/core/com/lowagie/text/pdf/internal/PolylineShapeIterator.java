@@ -1,5 +1,5 @@
 /*
- * $Id$
+ * $Id: PolylineShapeIterator.java 3427 2008-05-24 18:32:31Z xlv $
  *
  * Copyright 2007 Bruno Lowagie and Wil
  *

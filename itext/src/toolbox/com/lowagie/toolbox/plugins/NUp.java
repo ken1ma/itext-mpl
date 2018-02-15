@@ -1,5 +1,5 @@
 /*
- * $Id$
+ * $Id: NUp.java 3427 2008-05-24 18:32:31Z xlv $
  * Copyright (c) 2005-2007 Bruno Lowagie, Carsten Hammer
  *
  * Permission is hereby granted, free of charge, to any person
@@ -59,7 +59,7 @@ import com.lowagie.toolbox.arguments.filters.PdfFilter;
 public class NUp extends AbstractTool {
 
 	static {
-		addVersion("$Id$");
+		addVersion("$Id: NUp.java 3427 2008-05-24 18:32:31Z xlv $");
 	}
 
 	/**

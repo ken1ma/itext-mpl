@@ -1,5 +1,5 @@
 /*
- * $Id$
+ * $Id: PdfResources.java 3712 2009-02-20 20:11:31Z xlv $
  *
  * Copyright 1999, 2000, 2001, 2002 Bruno Lowagie
  *

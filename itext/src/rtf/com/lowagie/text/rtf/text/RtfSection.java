@@ -1,5 +1,5 @@
 /*
- * $Id$
+ * $Id: RtfSection.java 3373 2008-05-12 16:21:24Z xlv $
  *
  * Copyright 2001, 2002, 2003, 2004 by Mark Hall
  *
@@ -68,7 +68,7 @@ import com.lowagie.text.rtf.field.RtfTOCEntry;
  * The RtfSection wraps a Section element.
  * INTERNAL CLASS
  * 
- * @version $Id$
+ * @version $Id: RtfSection.java 3373 2008-05-12 16:21:24Z xlv $
  * @author Mark Hall (Mark.Hall@mail.room3b.eu)
  * @author Thomas Bickel (tmb99@inode.at)
  */

@@ -22,7 +22,7 @@ import com.lowagie.text.rtf.RtfAddableElement;
  * in the standard iText point, but in EMU where 1 inch = 914400 EMU
  * or 1 cm = 360000 EMU. 
  * 
- * @version $Id$
+ * @version $Id: RtfShape.java 3591 2008-08-27 17:19:27Z howard_s $
  * @author Mark Hall (Mark.Hall@mail.room3b.eu)
  * @author Thomas Bickel (tmb99@inode.at)
  */

@@ -1,5 +1,5 @@
 /*
- * $Id$
+ * $Id: PdfCopyFieldsImp.java 3763 2009-03-06 17:30:30Z blowagie $
  * Copyright 2004 by Paulo Soares.
  *
  * The contents of this file are subject to the Mozilla Public License Version 1.1

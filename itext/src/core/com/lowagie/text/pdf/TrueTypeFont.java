@@ -1,5 +1,5 @@
 /*
- * $Id$
+ * $Id: TrueTypeFont.java 3854 2009-04-14 08:02:10Z blowagie $
  *
  * Copyright 2001-2006 Paulo Soares
  *

@@ -1,5 +1,5 @@
 /*
- * $Id$
+ * $Id: CJKFont.java 3595 2008-10-08 13:46:32Z psoares33 $
  *
  * Copyright 2000, 2001, 2002 by Paulo Soares.
  *

@@ -1,5 +1,5 @@
 /*
- * $Id$
+ * $Id: MultiColumnText.java 3936 2009-05-27 12:40:12Z blowagie $
  *
  * Copyright 2004 Steve Appling
  *

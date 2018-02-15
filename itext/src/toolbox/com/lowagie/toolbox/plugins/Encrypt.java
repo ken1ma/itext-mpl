@@ -1,5 +1,5 @@
 /*
- * $Id$
+ * $Id: Encrypt.java 3271 2008-04-18 20:39:42Z xlv $
  * Copyright (c) 2005-2007 Bruno Lowagie, Carsten Hammer
  *
  * Permission is hereby granted, free of charge, to any person
@@ -59,7 +59,7 @@ import com.lowagie.toolbox.arguments.filters.PdfFilter;
 public class Encrypt extends AbstractTool {
 
 	static {
-		addVersion("$Id$");
+		addVersion("$Id: Encrypt.java 3271 2008-04-18 20:39:42Z xlv $");
 	}
     private final static int PERMISSIONS[] = {
     	PdfWriter.ALLOW_PRINTING,

@@ -1,5 +1,5 @@
 /*
- * $Id$
+ * $Id: EncryptPdf.java 3373 2008-05-12 16:21:24Z xlv $
  *
  * Copyright 2002 by Paulo Soares
  *

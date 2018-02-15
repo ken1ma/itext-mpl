@@ -1,5 +1,5 @@
 /*
- * $Id$
+ * $Id: RtfDocument.java 3580 2008-08-06 15:52:00Z howard_s $
  *
  * Copyright 2003, 2004, 2005 by Mark Hall
  *
@@ -67,7 +67,7 @@ import com.lowagie.text.rtf.graphic.RtfImage;
  * The RtfDocument stores all document related data and also the main data stream.
  * INTERNAL CLASS - NOT TO BE USED DIRECTLY
  *
- * @version $Id$
+ * @version $Id: RtfDocument.java 3580 2008-08-06 15:52:00Z howard_s $
  * @author Mark Hall (Mark.Hall@mail.room3b.eu)
  * @author Todd Bush [Tab support]
  * @author Thomas Bickel (tmb99@inode.at)

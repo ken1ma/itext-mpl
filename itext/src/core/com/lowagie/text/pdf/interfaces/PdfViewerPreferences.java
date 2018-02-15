@@ -1,5 +1,5 @@
 /*
- * $Id$
+ * $Id: PdfViewerPreferences.java 3305 2008-05-01 18:18:28Z blowagie $
  *
  * Copyright 2006 Bruno Lowagie
  *

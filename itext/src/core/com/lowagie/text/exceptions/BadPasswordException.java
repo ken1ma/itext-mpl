@@ -1,5 +1,5 @@
 /*
- * $Id$
+ * $Id: BadPasswordException.java 3665 2009-01-26 22:32:15Z xlv $
  *
  * Copyright 2007 by Bruno Lowagie.
  *

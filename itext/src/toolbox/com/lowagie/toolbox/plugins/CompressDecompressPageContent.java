@@ -1,5 +1,5 @@
 /*
- * $Id$
+ * $Id: CompressDecompressPageContent.java 3271 2008-04-18 20:39:42Z xlv $
  * Copyright (c) 2005-2007 Bruno Lowagie
  *
  * Permission is hereby granted, free of charge, to any person
@@ -56,7 +56,7 @@ import com.lowagie.toolbox.swing.PdfInformationPanel;
 public class CompressDecompressPageContent extends AbstractTool {
 
 	static {
-		addVersion("$Id$");
+		addVersion("$Id: CompressDecompressPageContent.java 3271 2008-04-18 20:39:42Z xlv $");
 	}
 
 	/**

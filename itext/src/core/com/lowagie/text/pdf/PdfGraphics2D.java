@@ -1,5 +1,5 @@
 /*
- * $Id$
+ * $Id: PdfGraphics2D.java 3611 2008-11-05 19:45:31Z blowagie $
  *
  * Copyright 2002 by Jim Moore <jim@scolamoore.com>.
  *

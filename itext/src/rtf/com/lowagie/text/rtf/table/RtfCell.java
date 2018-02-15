@@ -1,5 +1,5 @@
 /*
- * $Id$
+ * $Id: RtfCell.java 3580 2008-08-06 15:52:00Z howard_s $
  *
  * Copyright 2001, 2002, 2003, 2004 by Mark Hall
  *
@@ -78,7 +78,7 @@ import com.lowagie.text.rtf.text.RtfParagraph;
  * The RtfCell is an extension of Cell, that supports a multitude of different
  * borderstyles.
  * 
- * @version $Id$
+ * @version $Id: RtfCell.java 3580 2008-08-06 15:52:00Z howard_s $
  * @author Mark Hall (Mark.Hall@mail.room3b.eu)
  * @author Steffen Stundzig
  * @author Benoit Wiart

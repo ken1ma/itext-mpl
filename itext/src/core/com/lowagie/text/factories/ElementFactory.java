@@ -1,5 +1,5 @@
 /*
- * $Id$
+ * $Id: ElementFactory.java 3528 2008-07-07 14:46:09Z Howard_s $
  *
  * Copyright 2007 by Bruno Lowagie.
  *

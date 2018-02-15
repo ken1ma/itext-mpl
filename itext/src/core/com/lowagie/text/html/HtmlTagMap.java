@@ -1,5 +1,5 @@
 /*
- * $Id$
+ * $Id: HtmlTagMap.java 3528 2008-07-07 14:46:09Z Howard_s $
  *
  * Copyright 2001, 2002 by Bruno Lowagie.
  *

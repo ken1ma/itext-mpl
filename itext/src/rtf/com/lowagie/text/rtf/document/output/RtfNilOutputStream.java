@@ -55,7 +55,7 @@ import java.io.OutputStream;
  * speed in those situations where processing is required, but
  * the results are not needed.
  * 
- * @version $Id$
+ * @version $Id: RtfNilOutputStream.java 3361 2008-05-11 12:28:57Z hallm $
  * @author Thomas Bickel (tmb99@inode.at)
  * @author Mark Hall (Mark.Hall@mail.room3b.eu)
  */

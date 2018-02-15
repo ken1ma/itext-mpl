@@ -1,5 +1,5 @@
 /*
- * $Id$
+ * $Id: RtfChapter.java 3580 2008-08-06 15:52:00Z howard_s $
  *
  * Copyright 2001, 2002 by Mark Hall
  *
@@ -62,7 +62,7 @@ import com.lowagie.text.rtf.document.RtfDocument;
  * The RtfChapter wraps a Chapter element.
  * INTERNAL CLASS
  * 
- * @version $Id$
+ * @version $Id: RtfChapter.java 3580 2008-08-06 15:52:00Z howard_s $
  * @author Mark Hall (Mark.Hall@mail.room3b.eu)
  * @author Thomas Bickel (tmb99@inode.at)
  */

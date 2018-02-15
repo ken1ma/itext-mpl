@@ -1,5 +1,5 @@
 /*
- * $Id$
+ * $Id: Utilities.java 3514 2008-06-27 09:26:36Z blowagie $
  *
  * Copyright 2007 by Bruno Lowagie.
  *

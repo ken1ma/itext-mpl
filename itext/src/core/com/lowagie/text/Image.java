@@ -1,5 +1,5 @@
 /*
- * $Id$
+ * $Id: Image.java 3941 2009-05-28 14:52:26Z blowagie $
  *
  * Copyright 1999, 2000, 2001, 2002 by Bruno Lowagie.
  *

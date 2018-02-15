@@ -1,5 +1,5 @@
 /*
- * $Id$
+ * $Id: FileArrayArgument.java 3297 2008-05-01 12:19:24Z blowagie $
  * Copyright (c) 2005-2007 Bruno Lowagie, Carsten Hammer
  *
  * Permission is hereby granted, free of charge, to any person

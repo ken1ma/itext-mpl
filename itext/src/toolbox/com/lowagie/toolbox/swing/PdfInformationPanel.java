@@ -1,5 +1,5 @@
 /*
- * $Id$
+ * $Id: PdfInformationPanel.java 3372 2008-05-12 03:16:52Z xlv $
  * Copyright (c) 2005-2007 Carsten Hammer, Bruno Lowagie
  *
  * Permission is hereby granted, free of charge, to any person

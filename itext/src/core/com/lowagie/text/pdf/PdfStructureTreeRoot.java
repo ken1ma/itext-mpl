@@ -1,5 +1,5 @@
 /*
- * $Id$
+ * $Id: PdfStructureTreeRoot.java 3914 2009-04-26 09:16:47Z blowagie $
  *
  * Copyright 2005 by Paulo Soares.
  *

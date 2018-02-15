@@ -1,5 +1,5 @@
 /*
- * $Id$
+ * $Id: Table.java 3754 2009-03-04 19:05:20Z blowagie $
  *
  * Copyright 1999, 2000, 2001, 2002 by Bruno Lowagie.
  *

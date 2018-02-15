@@ -1,5 +1,5 @@
 /*
- * $Id$
+ * $Id: Type1Font.java 3718 2009-02-23 16:56:55Z blowagie $
  *
  * Copyright 2001-2006 Paulo Soares
  *

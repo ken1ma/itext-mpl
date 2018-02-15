@@ -1,5 +1,5 @@
 /*
- * $Id$
+ * $Id: SplitCharacter.java 3374 2008-05-12 18:42:56Z xlv $
  *
  * Copyright 2001, 2002 by Paulo Soares
  *

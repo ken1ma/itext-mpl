@@ -1,5 +1,5 @@
 /*
- * $Id$
+ * $Id: Element.java 3672 2009-02-01 15:32:09Z blowagie $
  *
  * Copyright 1999, 2000, 2001, 2002 by Bruno Lowagie.
  *

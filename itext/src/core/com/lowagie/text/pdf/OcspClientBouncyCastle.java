@@ -1,5 +1,5 @@
 /*
- * $Id$
+ * $Id: OcspClientBouncyCastle.java 3959 2009-06-09 08:31:05Z blowagie $
  *
  * Copyright 2009 Paulo Soares
  *

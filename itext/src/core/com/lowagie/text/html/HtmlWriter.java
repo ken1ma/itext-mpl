@@ -1,5 +1,5 @@
 /*
- * $Id$
+ * $Id: HtmlWriter.java 3583 2008-08-12 00:00:09Z xlv $
  *
  * Copyright 1999, 2000, 2001, 2002 by Bruno Lowagie.
  *

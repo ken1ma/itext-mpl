@@ -1,5 +1,5 @@
 /*
- * $Id$
+ * $Id: FontFactoryImp.java 3548 2008-07-12 11:15:35Z blowagie $
  *
  * Copyright 2002 by Bruno Lowagie.
  *

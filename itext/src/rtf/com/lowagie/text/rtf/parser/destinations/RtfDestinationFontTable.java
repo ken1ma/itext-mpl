@@ -1,5 +1,5 @@
 /*
- * $Id$
+ * $Id: RtfDestinationFontTable.java 3832 2009-04-04 13:18:12Z blowagie $
  *
  * Copyright 2007 by Howard Shank (hgshank@yahoo.com)
  *

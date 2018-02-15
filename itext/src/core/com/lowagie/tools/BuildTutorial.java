@@ -1,5 +1,5 @@
 /*
- * $Id$
+ * $Id: BuildTutorial.java 3373 2008-05-12 16:21:24Z xlv $
  *
  * Copyright 2005 by Bruno Lowagie.
  *

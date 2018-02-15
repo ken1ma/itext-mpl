@@ -1,5 +1,5 @@
 /*
- * $Id$
+ * $Id: Phrase.java 3942 2009-05-28 18:14:10Z blowagie $
  *
  * Copyright 1999, 2000, 2001, 2002 by Bruno Lowagie.
  *

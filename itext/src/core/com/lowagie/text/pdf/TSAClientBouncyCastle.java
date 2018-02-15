@@ -1,5 +1,5 @@
 /*
- * $Id$
+ * $Id: TSAClientBouncyCastle.java 3973 2009-06-16 10:30:31Z psoares33 $
  *
  * Copyright 2009 Martin Brunecky, Aiken Sam
  *

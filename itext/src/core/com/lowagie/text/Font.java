@@ -1,5 +1,5 @@
 /*
- * $Id$
+ * $Id: Font.java 3678 2009-02-07 14:46:01Z blowagie $
  *
  * Copyright 1999, 2000, 2001, 2002 by Bruno Lowagie.
  *
